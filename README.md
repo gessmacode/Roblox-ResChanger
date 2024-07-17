@@ -1,4 +1,4 @@
-What you need to install:
+## What you need to install:
 
 1. Python: Make sure Python is installed on your computer. You can download Python from the official website: https://www.python.org/downloads/
 
