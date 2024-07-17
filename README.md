@@ -1,7 +1,8 @@
 Installation Instructions
 
     Install Python:
-        Make sure Python is installed on your computer. You can download Python from the official website: https://www.python.org/downloads/
+        Make sure Python is installed on your computer. You can download Python from the official website: 
+        https://www.python.org/downloads/
 
     Install Required Packages:
         Open Command Prompt (cmd) and type the following commands to install the necessary packages
