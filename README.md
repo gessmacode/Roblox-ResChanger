@@ -4,9 +4,7 @@ Installation Instructions
         Make sure Python is installed on your computer. You can download Python from the official website: Python Downloads
 
     Install Required Packages:
-        Open Command Prompt (cmd) and type the following commands to install the necessary packages:
-
-        bash
+        Open Command Prompt (cmd) and type the following commands to install the necessary packages
 
         pip install pywin32
         pip install wmi
