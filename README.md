@@ -3,6 +3,7 @@
 Simple Resolution Adjuster for Roblox 🎮
 
 Windows 11 Version 10.0.22621 Build 22621 ✅
+
 Windows 10 Version 22H2 Build 19045.2965 ✅
 
 I am currently learning and improving the tool, so it may not be perfect yet. However, I'm dedicated to making it better.
